@@ -19,13 +19,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.4.20",
     "browser-sync": "^2.29.1",
+    "cross-env": "^7.0.3",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-concat-css": "^3.1.0",
     "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^10.0.0",
+    "html-minifier": "^4.0.0",
+    "postcss": "^8.5.1",
     "prettier": "^2.8.7",
-    "stylelint": "^15.4.0",
-    "cross-env": "^7.0.3"
+    "stylelint": "^15.4.0"
   }
 }
